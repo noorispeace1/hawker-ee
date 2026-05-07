@@ -2,7 +2,7 @@ import ProductCard from "@/components/ProductCard";
 import Image from "next/image";
 
 export default async function Home() {
-    const res = await fetch('http://localhost:3000/data.json', { cache: 'no-store' });
+    const res = await fetch('https://hawker-ee.vercel.app/data.json', { cache: 'no-store' });
   const products = await res.json();
   console.log(products);
   return (
