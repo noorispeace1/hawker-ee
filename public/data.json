@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PROD-001",
+    "title": "Bohemian Fabric-Wrapped Bangle Set",
+    "description": "Handcrafted vibrant fabric-wrapped bangles featuring intricate mirror work and long decorative latkans with seashell accents.",
+    "price": 850,
+    "currency": "BDT",
+    "category": "Bangles",
+    "image_url": "/assets/images/products/bangle-set.jpg",
+    "stock_status": "In Stock",
+    "materials": ["Cotton Fabric", "Mirror", "Seashells"],
+    "colors": ["Pink", "Green", "Yellow"]
+  },
+  {
+    "id": "PROD-002",
+    "title": "Hand-Painted Terracotta & Thread Necklace",
+    "description": "An elegant ethnic necklace combining hand-painted clay pendants with soft thread beads. Perfect for traditional sarees like Jamdani.",
+    "price": 1250,
+    "currency": "BDT",
+    "category": "Necklace",
+    "image_url": "/assets/images/products/terracotta-necklace.jpg",
+    "stock_status": "Limited Edition",
+    "materials": ["Terracotta", "Silk Thread", "Beads"],
+    "colors": ["Multicolor", "Earth Tone"]
+  },
+  {
+    "id": "PROD-003",
+    "title": "Maroon Velvet Kundan Studs",
+    "description": "Sophisticated square-shaped stud earrings wrapped in premium maroon velvet, adorned with Kundan-style stonework and a small silver jhumka drop.",
+    "price": 450,
+    "currency": "BDT",
+    "category": "Earrings",
+    "image_url": "/assets/images/products/velvet-studs.jpg",
+    "stock_status": "In Stock",
+    "materials": ["Velvet", "Kundan Stones", "Alloy Metal"],
+    "colors": ["Maroon", "Silver"]
+  },
+  {
+    "id": "PROD-004",
+    "title": "Artisanal Purple Patchwork Necklace",
+    "description": "A unique statement piece featuring rectangular purple fabric patches with white kantha stitch detailing and authentic cowrie shells.",
+    "price": 950,
+    "currency": "BDT",
+    "category": "Necklace",
+    "image_url": "/assets/images/products/purple-necklace.jpg",
+    "stock_status": "In Stock",
+    "materials": ["Cotton Fabric", "Cowrie Shells", "Thread"],
+    "colors": ["Purple", "White"]
+  },
+  {
+    "id": "PROD-005",
+    "title": "Vibrant Pom-Pom Festive Mala",
+    "description": "Playful and colorful long necklace made with soft woolen pom-poms and golden bead spacers. Adds a pop of color to any outfit.",
+    "price": 600,
+    "currency": "BDT",
+    "category": "Necklace",
+    "image_url": "/assets/images/products/pompom-mala.jpg",
+    "stock_status": "In Stock",
+    "materials": ["Woolen Yarn", "Artificial Beads"],
+    "colors": ["Red", "Blue", "Yellow", "Pink"]
+  },
+  {
+    "id": "PROD-006",
+    "title": "Minimalist Black Bead Long Chain",
+    "description": "Timeless long-length necklace featuring matte black beads with occasional metallic gold accents. Ideal for both office and ethnic wear.",
+    "price": 550,
+    "currency": "BDT",
+    "category": "Jewelry",
+    "image_url": "/assets/images/products/black-beads.jpg",
+    "stock_status": "In Stock",
+    "materials": ["Polished Beads", "Metallic Wire"],
+    "colors": ["Black", "Gold"]
+  }
+]
