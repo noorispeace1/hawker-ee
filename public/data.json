@@ -6,7 +6,7 @@
     "price": 850,
     "currency": "BDT",
     "category": "Bangles",
-    "image_url": "/assets/images/products/bangle-set.jpg",
+    "image_url": "https://picsum.photos/900",
     "stock_status": "In Stock",
     "materials": ["Cotton Fabric", "Mirror", "Seashells"],
     "colors": ["Pink", "Green", "Yellow"]
@@ -18,7 +18,7 @@
     "price": 1250,
     "currency": "BDT",
     "category": "Necklace",
-    "image_url": "/assets/images/products/terracotta-necklace.jpg",
+    "image_url": "https://picsum.photos/200",
     "stock_status": "Limited Edition",
     "materials": ["Terracotta", "Silk Thread", "Beads"],
     "colors": ["Multicolor", "Earth Tone"]
@@ -30,7 +30,7 @@
     "price": 450,
     "currency": "BDT",
     "category": "Earrings",
-    "image_url": "/assets/images/products/velvet-studs.jpg",
+    "image_url": "https://picsum.photos/300",
     "stock_status": "In Stock",
     "materials": ["Velvet", "Kundan Stones", "Alloy Metal"],
     "colors": ["Maroon", "Silver"]
@@ -42,7 +42,7 @@
     "price": 950,
     "currency": "BDT",
     "category": "Necklace",
-    "image_url": "/assets/images/products/purple-necklace.jpg",
+    "image_url": "https://picsum.photos/400",
     "stock_status": "In Stock",
     "materials": ["Cotton Fabric", "Cowrie Shells", "Thread"],
     "colors": ["Purple", "White"]
@@ -54,7 +54,7 @@
     "price": 600,
     "currency": "BDT",
     "category": "Necklace",
-    "image_url": "/assets/images/products/pompom-mala.jpg",
+    "image_url": "https://picsum.photos/500",
     "stock_status": "In Stock",
     "materials": ["Woolen Yarn", "Artificial Beads"],
     "colors": ["Red", "Blue", "Yellow", "Pink"]
@@ -66,7 +66,7 @@
     "price": 550,
     "currency": "BDT",
     "category": "Jewelry",
-    "image_url": "/assets/images/products/black-beads.jpg",
+    "image_url": "https://picsum.photos/600",
     "stock_status": "In Stock",
     "materials": ["Polished Beads", "Metallic Wire"],
     "colors": ["Black", "Gold"]

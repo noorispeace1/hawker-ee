@@ -1,7 +1,8 @@
+import Image from "next/image";
 
 const ProductCard =  ({products}) => {
   // Data fetch kora hochche
-
+console.log(products);
 
   return (
    
@@ -16,8 +17,10 @@ const ProductCard =  ({products}) => {
             >
               {/* Product Image Area */}
               <div className="relative h-64 bg-gray-200">
-                <img
+                <Image
                   src={product.image_url}
+                  width={100}
+                  height={100}
                   alt={product.title}
                   className="w-full h-full object-cover"
                 />
