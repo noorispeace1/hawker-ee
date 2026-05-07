@@ -6,7 +6,7 @@
     "price": 850,
     "currency": "BDT",
     "category": "Bangles",
-    "image_url": "https://picsum.photos/900",
+    "image_url": "https://i.ibb.co.com/whcx46Jp/684644111-122287999880204457-6111292036567291737-n.jpg",
     "stock_status": "In Stock",
     "materials": ["Cotton Fabric", "Mirror", "Seashells"],
     "colors": ["Pink", "Green", "Yellow"]
@@ -18,7 +18,7 @@
     "price": 1250,
     "currency": "BDT",
     "category": "Necklace",
-    "image_url": "https://picsum.photos/200",
+    "image_url": "https://i.ibb.co.com/h1RzWTXD/684420745-122287999814204457-207897249284931995-n.jpg",
     "stock_status": "Limited Edition",
     "materials": ["Terracotta", "Silk Thread", "Beads"],
     "colors": ["Multicolor", "Earth Tone"]
@@ -30,7 +30,7 @@
     "price": 450,
     "currency": "BDT",
     "category": "Earrings",
-    "image_url": "https://picsum.photos/300",
+    "image_url": "https://i.ibb.co.com/jkjDM3N4/685105659-122287999772204457-1734105161749088942-n.jpg",
     "stock_status": "In Stock",
     "materials": ["Velvet", "Kundan Stones", "Alloy Metal"],
     "colors": ["Maroon", "Silver"]
@@ -42,7 +42,7 @@
     "price": 950,
     "currency": "BDT",
     "category": "Necklace",
-    "image_url": "https://picsum.photos/400",
+    "image_url": "https://i.ibb.co.com/qFc9WC11/684278219-122287999616204457-1066792964808473707-n.jpg",
     "stock_status": "In Stock",
     "materials": ["Cotton Fabric", "Cowrie Shells", "Thread"],
     "colors": ["Purple", "White"]
@@ -54,7 +54,7 @@
     "price": 600,
     "currency": "BDT",
     "category": "Necklace",
-    "image_url": "https://picsum.photos/500",
+    "image_url": "https://i.ibb.co.com/kgfVsDhW/681433691-122287983662204457-7194457516947770095-n.jpg",
     "stock_status": "In Stock",
     "materials": ["Woolen Yarn", "Artificial Beads"],
     "colors": ["Red", "Blue", "Yellow", "Pink"]
@@ -66,7 +66,7 @@
     "price": 550,
     "currency": "BDT",
     "category": "Jewelry",
-    "image_url": "https://picsum.photos/600",
+    "image_url": "https://i.ibb.co.com/ZzNN3Gxw/682462335-122287999718204457-7238079996800027943-n.jpg",
     "stock_status": "In Stock",
     "materials": ["Polished Beads", "Metallic Wire"],
     "colors": ["Black", "Gold"]
